@@ -1,0 +1,40 @@
+.Home-clase {
+  color: rgb(233, 183, 109);
+  text-align: center;
+  align-items: center;
+  border: 1px solid black;
+  font-size: 55px;
+  background-color: cornflowerblue;
+  font-family: "Pangolin", cursive;
+}
+
+.Body-Home {
+  background-image: linear-gradient(to bottom, rgba(0, 255, 191, 0.5), rgba(153, 0, 255, 0.562)), url("catfront.png");
+}
+
+.Titulo-sobre-nosotros {
+  color: darksalmon;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 55px;
+  background-color: gray;
+  font-family: "Leckerli One", cursive;
+}
+
+.Body-Home1 {
+  background-image: linear-gradient(to bottom, ORANGE, YELLOW), url("catfront.png");
+}
+
+.Body-Contactos {
+  background-image: linear-gradient(to bottom, #deb887, #f08080), url("catfront.png");
+}
+
+.Body-Home3 {
+  background-image: linear-gradient(to bottom, #ffb6c1, #bc8f8f), url("catfront.png");
+}
+
+.Body-Home2 {
+  background-image: linear-gradient(to bottom, #48d1cc, #9acd32), url("catfront.png");
+}
+
+/*# sourceMappingURL=Style.css.map */
